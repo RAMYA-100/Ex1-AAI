@@ -1,7 +1,7 @@
 <H3> Name: Ramya L </H3>
 <H3>Register No.:212225040330 </H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE:21/07/2026</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 ## Aim :
     To create a bayesian Network for the given dataset in Python
@@ -104,7 +104,6 @@ print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGus
 ```
 ## Output:
 ```
-<img width="577" height="786" alt="Screenshot 2026-07-21 095350" src="https://github.com/user-attachments/assets/33bf4b09-d50d-403a-8a4e-0fbced011e6b" />
 
 ```
 ## Result:
